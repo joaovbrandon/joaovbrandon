@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello, I'm Brandon!
 
 :computer: Senior Software Engineer @ [Engine](https://engine.com) | ex-[Uber](https://www.uber.com)<br>
-:star2: TypeScript & React Specialist<br>
+:star2: TypeScript, React & AI Specialist<br>
 :brazil: Born and living in Brazil<br>
 :airplane: Remote worker and traveler
 
@@ -13,6 +13,9 @@ Feel free to contact me on any social media **@joaovbrandon** or by email **hell
 
 These are some of the technologies and tools that I have work experience:
 
+![Claude](https://img.shields.io/badge/AI_Conductor-D97757?logo=claude&logoColor=fff)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?&style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?&style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&style=flat-square&logo=typescript&logoColor=FFF)
 ![React](https://img.shields.io/badge/React-20232A?&style=flat-square&logo=react&logoColor=61DAFB)
